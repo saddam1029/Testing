@@ -29,4 +29,13 @@
         android:layout_marginTop="24dp"
         android:text="Login" />
 
+    <TextView
+        android:id="@+id/textViewSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonLogin"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="Sign up" />
+
 </RelativeLayout>
